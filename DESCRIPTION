@@ -1,6 +1,6 @@
 Package: picR
 Title: Predictive Information Criteria for Model Selection
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person("Javier", "Flores", , "javenrflo.pro@pm.me", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-1550-1655"))
@@ -19,8 +19,9 @@ Config/testthat/edition: 3
 URL: https://github.com/javenrflo/picR
 BugReports: https://github.com/javenrflo/picR/issues
 NeedsCompilation: no
-Packaged: 2022-10-21 20:05:32 UTC; javenrflo
-Author: Javier Flores [aut, cre] (<https://orcid.org/0000-0002-1550-1655>)
+Packaged: 2025-06-11 00:24:53 UTC; User
+Author: Javier Flores [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-1550-1655>)
 Maintainer: Javier Flores <javenrflo.pro@pm.me>
 Repository: CRAN
-Date/Publication: 2022-10-24 17:52:36 UTC
+Date/Publication: 2025-06-11 02:20:02 UTC

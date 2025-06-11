@@ -1,16 +1,20 @@
 citHeader("To cite picR in publications use:")
 
-citEntry(
-  entry    = "PhdThesis",
-  title    = "A new class of information criteria for improved prediction in the presence of training/validation data heterogeneity",
-  author   = person(given = "Javier",
-  family = "Flores",
-  middle = "E."),
-  school = "University of Iowa",
-  year     = 2021,
-  url      = "https://iro.uiowa.edu/esploro/outputs/doctoral/A-new-class-of-information-criteria/9984097169902771",
-  textVersion = paste(
-  "Flores, J.E. (2021), A new class of information criteria for improved prediction in the presence of training/validation data heterogeneity [Unpublished PhD dissertation]. University of Iowa."
-  )
+bibentry(
+  bibtype = "Article",
+  author = c(
+    person("Javier E.", "Flores"),
+    person("Joseph E.", "Cavanaugh"),
+    person("Andrew A.", "Neath")
+  ),
+  title = "A new class of information criteria for improved prediction in the presence of training/validation data heterogeneity",
+  journal = "Computational Statistics",
+  volume = "40",
+  number = "5",
+  pages = "2389--2423",
+  year = 2024,
+  doi = "10.1007/s00180-024-01559-1",
+  note = "Published online October 2, 2024",
 )
+
 
